@@ -92,11 +92,11 @@
     padding-top: 90px;
   }
 
-  .section-skills,
+  /* .section-skills,
   .section-portfolio,
   .section-form {
     padding-bottom: 90px;
-  }
+  } */
 
   .site-section h2,
   .site-section h3 {
@@ -352,11 +352,11 @@
     padding-top: 60px;
   }
 
-  .section-skills,
+  /* .section-skills,
   .section-portfolio,
   .section-form {
-    padding-bottom: 60px;
-  }
+    /* padding-bottom: 60px; */
+  } */
 
   .site-section h2,
   .site-section h3 {
