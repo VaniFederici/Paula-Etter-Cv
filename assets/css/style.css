@@ -27,6 +27,7 @@
 
 /* CUSTOM RESETS
 ================================================== */
+
 a {
   transition: color 0.25s ease-in-out;
   -moz-transition: color 0.25s ease-in-out;
@@ -122,6 +123,7 @@ body {
   font-weight: normal;
   font-size: 16px;
   color: #1f1e1e;
+  overflow-x: hidden;
 }
 .first-title {
   font-family: "playlist";

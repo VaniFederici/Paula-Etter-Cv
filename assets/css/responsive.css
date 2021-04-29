@@ -2,9 +2,8 @@
 
 /* Large Devices, Wide Screens */
 @media only screen and (max-width: 1199px) {
-  /* HEADER
-	================================================== */
   /* Navigation */
+
   .navbar-nav > li + li > a {
     margin-left: 30px;
   }
@@ -49,6 +48,10 @@
 @media only screen and (max-width: 991px) {
   /* CUSTOM RESETS
 	================================================== */
+  .body {
+    overflow-x: hidden;
+  }
+
   h4 {
     font-size: 24px;
   }
@@ -153,6 +156,9 @@
 @media only screen and (max-width: 767px) {
   /* CUSTOM RESETS
 	================================================== */
+  .body {
+    overflow-x: hidden;
+  }
   h4 {
     font-size: 20px;
   }
@@ -433,6 +439,9 @@
 
 /* Extra Small Devices, Phones */
 @media only screen and (max-width: 479px) {
+  .body {
+    overflow-x: hidden;
+  }
   .visible-xxs {
     display: block;
   }
